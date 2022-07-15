@@ -1,1 +1,3 @@
-Hi! I am Cassie! This is my first type using fork and pull to collab on github! YAY!
+Hi! I am Cassie! This is my second* time using fork and pull to collab on github! YAY!
+
+*first time, I pulled a file with a typo! XD
